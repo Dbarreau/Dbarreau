@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/dbarreau/osticket-prereqs)
- lifecycle)
+
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/dbarreau/configure-ad)
   - [Sharing Files Through the Same Network](https://github.com/Dbarreau/Network-File-Sharing-and-Permission.git)
