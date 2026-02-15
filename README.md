@@ -1,6 +1,6 @@
 <h1>Hi, I am Danielle, an <a href="https://linkedin.com/in/danielle-barreau-6b4061b3">IT Professional</a> ☺</h1>
 
-<p>I’m passionate about cybersecurity and systems — and I’m continuously expanding my skills through hands-on projects and labs to grow as a professional who protects people’s data and peace of mind..</p>
+<p>I’m passionate about cybersecurity and systems — and I’m continuously expanding my skills through hands-on projects and labs to grow as a professional who protects people’s data and peace of mind.</p>
 
 ---
 
