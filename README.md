@@ -18,9 +18,14 @@
 <h2>🚀 Currently Learning:</h2>
 
 <ul>
-  <li>Google Cybersecurity Certificate – Course 4 (Tools of the Trade: Linux and SQL)</li>
+  <li>Google Cybersecurity Certificate – Course 4 (Tools of the Trade: Linux and SQL)
+    <ul>
+      <li><a href="https://github.com/Dbarreau/SQL-Security-Filters">SQL Security Filters</a></li>
+    </ul>
+  </li>
   <li>TryHackMe: Hands-on cybersecurity labs and walkthroughs</li>
 </ul>
+
 
 ---
 
