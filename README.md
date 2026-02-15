@@ -18,7 +18,7 @@
 <h2>🚀 Currently Learning:</h2>
 
 <ul>
-  <li>Google Cybersecurity Certificate – Course 1 (Foundations of Cybersecurity)</li>
+  <li>Google Cybersecurity Certificate – Course 4 (Tools of the Trade: Linux and SQL)</li>
   <li>TryHackMe: Hands-on cybersecurity labs and walkthroughs</li>
 </ul>
 
