@@ -15,27 +15,47 @@
 
 ---
 
-<h2>🚀 Currently Learning:</h2>
+
+<h2>Cybersecurity Certifications & Training</h2>
 
 <ul>
-  <li>Google Cybersecurity Certificate – Course 4 (Tools of the Trade: Linux and SQL)
+  <li>CompTIA Security+ (SY0-701) — Certified</li>
+  <li>Per Scholas — Cybersecurity with AI Tools</li>
+  <li>IBM Cybersecurity Certificate</li>
+</ul>
+
+<h2>Cybersecurity Projects</h2>
+
+<ul>
+  <li>
+    <a href="https://github.com/Dbarreau/wazuh-password-attack-investigation">
+      Password Attack Detection & SOC Investigation
+    </a>
     <ul>
-      <li><a href="https://github.com/Dbarreau/SQL-Security-Filters">SQL Security Filters</a></li>
+      <li>Investigated simulated password-guessing activity using Wazuh SIEM and Hydra.</li>
+      <li>Analyzed Windows Event IDs 4624 and 4625.</li>
+      <li>Correlated authentication alerts and evaluated MITRE ATT&CK classifications.</li>
     </ul>
   </li>
-  <li>TryHackMe: Hands-on cybersecurity labs and walkthroughs</li>
+  <li>
+    <a href="https://github.com/Dbarreau/SQL-Security-Filters">
+      SQL Security Filters
+    </a>
+    <ul>
+      <li>Applied SQL queries to filter security-related data.</li>
+    </ul>
+  </li>
 </ul>
 
-
----
-
-<h2>🔧 In Progress / Coming Soon:</h2>
+<h2>Technical Skills</h2>
 
 <ul>
-  <li>Linux file permissions and basic scripting</li>
-  <li>SQL queries for data filtering</li>
-  <li>Security incident documentation (journal-style)</li>
+  <li>Security Monitoring: Wazuh, Splunk</li>
+  <li>Security Analysis: Windows Event Logs, MITRE ATT&CK, Alert Investigation</li>
+  <li>Operating Systems: Windows, Linux</li>
+  <li>Networking: TCP/IP, Network Security Fundamentals</li>
 </ul>
+
 
 ---
 
