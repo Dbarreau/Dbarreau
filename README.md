@@ -20,8 +20,9 @@
 
 <ul>
   <li>CompTIA Security+ (SY0-701) — Certified</li>
-  <li>Per Scholas — Cybersecurity with AI Tools</li>
+  <li>Google AI Essentials Certificate</li>
   <li>IBM Cybersecurity Certificate</li>
+  <li>Splunk Core Certified User — In Progress</li>
 </ul>
 
 <h2>Cybersecurity Projects</h2>
